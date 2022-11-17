@@ -1,4 +1,4 @@
-# For more information go to the repository Backend-DeliveryApp
+# For more information go to the repository PUSGS-Backend-DeliveryApp
 -----------------------------------------------------------------------------------------------------------------------------
 # ClientApp
 
